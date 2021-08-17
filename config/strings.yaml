@@ -5,8 +5,8 @@
 branding:
   name: Library
   prettyName: Team Library
-  org: Your Organization
-  icon: /assets/images/icon-logo.svg
+  org: The Michigan Daily
+  icon: /assets/images/m-logo.png
   favicon: /assets/images/library.ico
 
 # pages/categories, pages/index, partials/search
@@ -26,7 +26,7 @@ landing:
 # partials/footer
 footer:
   helpText: Questions? Contact your organization's administrators.
-  defaultEmail: user@your_organization.com
+  defaultEmail: webteam@michigandaily.com
   buttons:
     edit: Edit This Page
     move: Move This Page
