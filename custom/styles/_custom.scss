@@ -1,0 +1,35 @@
+h1, h2, h3, h4, h5, h6 {
+    font-family: $font-serif;
+}
+
+.g-upper-body h1.headline {
+    font-family: $font-serif;
+}
+
+.g-body{
+    .g-main-content{
+        p, ul, li, dt, dd {
+            font-family: $font-serif;
+        }
+    }
+}
+
+#main-search-page .main-item .featured-cat .cat-container.style-docs ul li .btn-homepage:hover{
+    color: $white;
+}
+
+div#main-search-page div.main-item div.branding h3.branding-label,
+div.g-upper-body h1.headline,
+header#masthead.masthead div.container div.branding h3.branding-label
+{
+    font-weight: bold;
+}
+
+div.search-topper form.search-container button.icon:hover{
+    background-color: $accent-dark;
+}
+
+.masthead .container .branding .branding-heading .logo{
+    margin-left: 0px;
+    height: 30px;
+}
